@@ -1,0 +1,13 @@
+.centro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    margin-right: 15%;
+    margin-left: 19%;
+    border-radius: 10%;
+}
+H4{
+    margin-left: 15%;
+}
