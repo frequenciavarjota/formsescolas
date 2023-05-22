@@ -4,8 +4,8 @@
     align-items: center;
 }
 img{
-    margin-right: 15%;
-    margin-left: 19%;
+    margin-left: 110px;
+    margin-right: 110px;
     border-radius: 10%;
 }
 
@@ -13,5 +13,10 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 25%;
+}
+
+h5{
+    margin-left: 110px;
+    margin-right: 110px;
+    
 }
