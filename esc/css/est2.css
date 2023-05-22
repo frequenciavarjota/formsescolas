@@ -1,0 +1,17 @@
+.centro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    margin-left: 110px;
+    margin-right: 110px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+H4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

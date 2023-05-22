@@ -1,0 +1,22 @@
+.centro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    margin-left: 110px;
+    margin-right: 110px;
+    border-radius: 10%;
+}
+
+.centro1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h5{
+    margin-left: 110px;
+    margin-right: 110px;
+    
+}
